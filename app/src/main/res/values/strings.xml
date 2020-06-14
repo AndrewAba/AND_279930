@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AND_279930</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="logo">Logo</string>
+    <string name="login">Login</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="new_click_here_adventurer">New? Click Here Adventurer!</string>
+    <string name="register_text_logo">Register Text Logo</string>
+    <string name="username">Username</string>
+    <string name="create_account">Create Account</string>
+    <string name="create_account_using_google_account">Create Account Using Google Account</string>
+    <string name="dice_roller">Dice Roller</string>
+    <string name="characters">Characters</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="dumymail_dumy_com">dumymail@dumy.com</string>
+    <string name="navigation_open">"Open navigation drawer"</string>
+    <string name="navigation_close">"Close navigation drawer"</string>
+</resources>
